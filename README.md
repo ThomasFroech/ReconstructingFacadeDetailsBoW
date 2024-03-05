@@ -1,4 +1,4 @@
-# ReconstructingFacadeDetailsUsingMLSPointCloudsAndBagOfWordsApproach
+
 This repository contains the code, that was used in the paper: Reconstructing façade details using MLS point clouds and Bag-of-Words approach
 # Project Photogrammetry - Reconstructing façade details using MLS point clouds and Bag-of-Words approach
 
