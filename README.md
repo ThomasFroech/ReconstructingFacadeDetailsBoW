@@ -10,7 +10,7 @@ clouds and Bag-of-Words approach_, presented at the 18th International 3DGeoInfo
 
 ##  Reference
 
-If you use this repo please considering linking it or citing the [paper](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_21)
+If you use this repo please consider linking it or citing the [paper](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_21)
 ```plain
 @InProceedings{10.1007/978-3-031-43699-4_21,
 author="Froech, Thomas
